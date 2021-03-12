@@ -2,7 +2,7 @@
 
 طريقة تثبت لاداة 
 
-git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.git
+git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.Arabic.git
 
 
 جيد ادخل للاداة 
