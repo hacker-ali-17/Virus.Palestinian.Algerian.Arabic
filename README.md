@@ -1,4 +1,4 @@
-﻿#  Virus Palestinian Algerian
+﻿#  Virus Palestinian Algerian Arabic
 
 طريقة تثبت لاداة 
 
