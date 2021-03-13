@@ -27,7 +27,7 @@ echo $i"|"$me" 2"$i" |"$cy" صنع فيروسات               "$i""$i"        
 echo $i"|"$me" 3"$i" |"$cy" صنع فيروسات الفدية          "$i""$i"                "$cy" "$i" "
 echo $i"|"$me" 4"$i" |"$cy"  استخراج الاميلات        "$i""$i"                   "$cy" "$i" "
 echo $i"|"$me" 5"$i" |"$cy" اسقاط المواقع بهجوم حجب الخدمه عن السيرفرات "$i""$i" "$cy" "$i" "
-echo $i"|"$me" 6"$i" |"$cy" اغلاق فيس بوك ( root )     "$i""$i"                 "$cy" "$i" "
+echo $i"|"$me" 6"$i" |"$cy" English تنزيل اداة بنسخة انجليزية      "$i""$i"                 "$cy" "$i" "
 echo $i"──────────────────────────────────────────────────────────────────────────────────────"$i"        "$cy"  "$i" "
 echo $i"|"$me" 7"$i" |"$cy" ANGGAXD اختراق فيس بوك عشوائي كود هو "$i""$i"    "
 echo $i"|"$me" 8"$i" |"$cy" Reportاداة اغلاق فيس بوك "
@@ -104,8 +104,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.git
-cd Virus.Palestinian.Algerian
+git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.English.git
+cd Virus.Palestinian.Algerian.English
 sh Algerian.sh
 fi
 
