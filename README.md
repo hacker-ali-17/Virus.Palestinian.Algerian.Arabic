@@ -13,6 +13,11 @@ cd Virus.Palestinian.Algerian.Arabic
 
 sh Algerian.sh
 
+
+## PoC
+
+![](PoC.jpg)
+
 ## Contact
 
 * facebook: [أكادمية تعلم البرمجة حتي الاحتراف
